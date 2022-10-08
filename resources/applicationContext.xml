@@ -15,8 +15,9 @@
 
     <bean id="myPerson"
           class="com.zaurtregulov.spring.spring_introdaction.Person">
-       <property name="pet" ref = "myPet" />
-
+        <property name="pet" ref = "myPet" />
+        <property name="age" value="30"/>
+        <property name="surName" value="Kazakov"/>
     </bean>
 
 </beans>

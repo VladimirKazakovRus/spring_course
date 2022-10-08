@@ -9,7 +9,8 @@ public class Test3 {
         //Pet pet = new Dog();
         Person person = context.getBean("myPerson",Person.class);
         person.CollYourPet();
-
+        System.out.println(person.getAge());
+        System.out.println(person.getSurName());
         context.close();
     }
 
