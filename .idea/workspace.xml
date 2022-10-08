@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zaurtregulov/spring/AppTest.java" afterDir="false" />
+    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="first bine">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +47,7 @@
       <recent name="E:\Vladimir\IDEA\spring_course\src\main\java\com\zaurtregulov\spring" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test3">
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zaurtregulov.spring.spring_introdaction.Test1" />
       <module name="spring_course" />
@@ -73,8 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zaurtregulov.spring.spring_introdaction.Test3" />
+      <module name="spring_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zaurtregulov.spring.spring_introdaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
@@ -87,8 +89,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665194312020</updated>
-      <workItem from="1665194314547" duration="3896000" />
+      <workItem from="1665194314547" duration="4960000" />
     </task>
+    <task id="LOCAL-00001" summary="first bine">
+      <created>1665241285445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665241285445</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first bine" />
+    <option name="LAST_COMMIT_MESSAGE" value="first bine" />
   </component>
 </project>
