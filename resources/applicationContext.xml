@@ -15,7 +15,8 @@
 
     <bean id="myPerson"
           class="com.zaurtregulov.spring.spring_introdaction.Person">
-        <constructor-arg ref = "myPet"/>
+       <property name="pet" ref = "myPet" />
+
     </bean>
 
 </beans>

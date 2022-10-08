@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="-ok">
+    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="dependencies injection for constructer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665194312020</updated>
-      <workItem from="1665194314547" duration="6804000" />
+      <workItem from="1665194314547" duration="7447000" />
     </task>
     <task id="LOCAL-00001" summary="first bine">
       <created>1665241285445</created>
@@ -114,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665242814006</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dependencies injection for constructer">
+      <created>1665243999454</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665243999454</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +141,7 @@
     <MESSAGE value="first bine" />
     <MESSAGE value="test3" />
     <MESSAGE value="-ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="-ok" />
+    <MESSAGE value="dependencies injection for constructer" />
+    <option name="LAST_COMMIT_MESSAGE" value="dependencies injection for constructer" />
   </component>
 </project>
