@@ -1,5 +1,8 @@
 package com.zaurtregulov.spring.spring_introdaction;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Dog implements Pet{
 //    private String name;
     public Dog(){

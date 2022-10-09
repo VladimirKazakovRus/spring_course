@@ -1,11 +1,13 @@
 package com.zaurtregulov.spring.spring_introdaction;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component("personBean")
 public class Person {
     @Autowired
+    @Qualifier("dog")
     private Pet pet;
     private String surName;
     private int age;
