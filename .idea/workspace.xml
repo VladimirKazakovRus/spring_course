@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="scope = &quot;prototype&quot;">
+    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="scope = &quot;prototype2&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/applicationContext2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +61,7 @@
       <recent name="E:\Vladimir\IDEA\spring_course\src\main\java\com\zaurtregulov\spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test4">
+  <component name="RunManager" selected="Application.Test5">
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zaurtregulov.spring.spring_introdaction.Test1" />
       <module name="spring_course" />
@@ -97,8 +101,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zaurtregulov.spring.spring_introdaction.Test5" />
+      <module name="spring_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zaurtregulov.spring.spring_introdaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test5" />
         <item itemvalue="Application.Test4" />
         <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test1" />
@@ -114,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665194312020</updated>
       <workItem from="1665194314547" duration="11347000" />
-      <workItem from="1665249770037" duration="1437000" />
+      <workItem from="1665249770037" duration="3323000" />
     </task>
     <task id="LOCAL-00001" summary="first bine">
       <created>1665241285445</created>
@@ -179,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665250973436</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="scope = &quot;prototype2&quot;">
+      <created>1665301625353</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665301625354</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +231,7 @@
     <MESSAGE value="myApp.properties" />
     <MESSAGE value="scope" />
     <MESSAGE value="scope = &quot;prototype&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="scope = &quot;prototype&quot;" />
+    <MESSAGE value="scope = &quot;prototype2&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="scope = &quot;prototype2&quot;" />
   </component>
 </project>
