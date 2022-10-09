@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="update annotation">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Person.java" afterDir="false" />
+    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="autowired">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Cat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665194312020</updated>
       <workItem from="1665194314547" duration="11347000" />
-      <workItem from="1665249770037" duration="5179000" />
+      <workItem from="1665249770037" duration="6083000" />
     </task>
     <task id="LOCAL-00001" summary="first bine">
       <created>1665241285445</created>
@@ -249,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665306163063</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="autowired">
+      <created>1665306833069</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665306833069</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,6 +289,7 @@
     <MESSAGE value="new annotation" />
     <MESSAGE value="update" />
     <MESSAGE value="update annotation" />
-    <option name="LAST_COMMIT_MESSAGE" value="update annotation" />
+    <MESSAGE value="autowired" />
+    <option name="LAST_COMMIT_MESSAGE" value="autowired" />
   </component>
 </project>

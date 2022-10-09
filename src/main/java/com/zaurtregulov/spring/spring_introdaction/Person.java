@@ -8,11 +8,11 @@ public class Person {
     private Pet pet;
     private String surName;
     private int age;
-    @Autowired
-    public Person(Pet pet) {
-        System.out.println("person bean is created");
-        this.pet = pet;
-    }
+//    @Autowired
+//    public Person(Pet pet) {
+//        System.out.println("person bean is created");
+//        this.pet = pet;
+//    }
 //    public Person(){
 //        System.out.println("bean is created");
 //    }
@@ -32,7 +32,7 @@ public class Person {
     public void setAge(int age) {
         this.age = age;
     }
-
+    @Autowired
     public void setPet(Pet pet) {
         System.out.println("class Person: set Pet");
         this.pet = pet;
