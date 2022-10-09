@@ -6,16 +6,16 @@ import org.springframework.stereotype.Component;
 
 @Component("personBean")
 public class Person {
-    @Autowired
-    @Qualifier("dog")
+//    @Autowired
+//    @Qualifier("catBean")
     private Pet pet;
     private String surName;
     private int age;
-//    @Autowired
-//    public Person(Pet pet) {
-//        System.out.println("person bean is created");
-//        this.pet = pet;
-//    }
+    @Autowired
+    public Person(@Qualifier("catBean") Pet pet) {
+        System.out.println("person bean is created");
+        this.pet = pet;
+    }
 //    public Person(){
 //        System.out.println("bean is created");
 //    }
