@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="@value">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/ScopeTest.java" afterDir="false" />
+    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="@Scope(&quot;prototype&quot;)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/applicationContext3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665194312020</updated>
       <workItem from="1665194314547" duration="11347000" />
-      <workItem from="1665249770037" duration="10635000" />
+      <workItem from="1665249770037" duration="11257000" />
     </task>
     <task id="LOCAL-00001" summary="first bine">
       <created>1665241285445</created>
@@ -295,7 +293,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665314783580</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="@Scope(&quot;singleton&quot;)">
+      <created>1665315463755</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665315463755</updated>
+    </task>
+    <task id="LOCAL-00023" summary="@Scope(&quot;prototype&quot;)">
+      <created>1665315564384</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1665315564384</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,6 +346,8 @@
     <MESSAGE value="@qualifier for @autowired" />
     <MESSAGE value="@qualifier for @autowired - constructer" />
     <MESSAGE value="@value" />
-    <option name="LAST_COMMIT_MESSAGE" value="@value" />
+    <MESSAGE value="@Scope(&quot;singleton&quot;)" />
+    <MESSAGE value="@Scope(&quot;prototype&quot;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="@Scope(&quot;prototype&quot;)" />
   </component>
 </project>
