@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="autowired for pole">
+    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="@qualifier for @autowired - constructer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/applicationContext3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/ConfigWithAnnotations1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/ConfigWithAnnotations1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665194312020</updated>
       <workItem from="1665194314547" duration="11347000" />
-      <workItem from="1665249770037" duration="8434000" />
+      <workItem from="1665249770037" duration="9985000" />
     </task>
     <task id="LOCAL-00001" summary="first bine">
       <created>1665241285445</created>
@@ -272,7 +273,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665308969411</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="@qualifier for @autowired">
+      <created>1665313270905</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665313270905</updated>
+    </task>
+    <task id="LOCAL-00020" summary="@qualifier for @autowired - constructer">
+      <created>1665313488619</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665313488619</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,6 +323,8 @@
     <MESSAGE value="autowired" />
     <MESSAGE value="autowired for setter" />
     <MESSAGE value="autowired for pole" />
-    <option name="LAST_COMMIT_MESSAGE" value="autowired for pole" />
+    <MESSAGE value="@qualifier for @autowired" />
+    <MESSAGE value="@qualifier for @autowired - constructer" />
+    <option name="LAST_COMMIT_MESSAGE" value="@qualifier for @autowired - constructer" />
   </component>
 </project>
