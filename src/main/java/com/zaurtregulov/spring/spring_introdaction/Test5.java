@@ -10,6 +10,8 @@ public class Test5 {
         myDog.sey();
         Dog yourDog = context.getBean("myPet", Dog.class);
         yourDog.sey();
+
+
         context.close();
 
 
