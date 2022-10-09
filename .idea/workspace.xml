@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="scope = &quot;prototype2&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test5.java" afterDir="false" />
+    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="scope = prototipe">
+      <change afterPath="$PROJECT_DIR$/resources/applicationContext3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/ConfigWithAnnotations1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/applicationContext2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Cat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665194312020</updated>
       <workItem from="1665194314547" duration="11347000" />
-      <workItem from="1665249770037" duration="3323000" />
+      <workItem from="1665249770037" duration="4452000" />
     </task>
     <task id="LOCAL-00001" summary="first bine">
       <created>1665241285445</created>
@@ -204,7 +203,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665301625354</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="init and destroy">
+      <created>1665302966472</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665302966472</updated>
+    </task>
+    <task id="LOCAL-00012" summary="scope = prototipe">
+      <created>1665303049857</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1665303049857</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +245,8 @@
     <MESSAGE value="scope" />
     <MESSAGE value="scope = &quot;prototype&quot;" />
     <MESSAGE value="scope = &quot;prototype2&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="scope = &quot;prototype2&quot;" />
+    <MESSAGE value="init and destroy" />
+    <MESSAGE value="scope = prototipe" />
+    <option name="LAST_COMMIT_MESSAGE" value="scope = prototipe" />
   </component>
 </project>
