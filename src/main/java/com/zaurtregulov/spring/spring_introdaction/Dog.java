@@ -13,14 +13,14 @@ public class Dog implements Pet{
     public Dog(){
         System.out.println("bean Dog is created");
     }
-    @PostConstruct
-    public void init(){
-        System.out.println("class Dog: init metod");
-    }
-    @PreDestroy
-    public  void destroy(){
-        System.out.println("class Dog: destroy metod");
-    }
+//    @PostConstruct
+//    public void init(){
+//        System.out.println("class Dog: init metod");
+//    }
+//    @PreDestroy
+//    public  void destroy(){
+//        System.out.println("class Dog: destroy metod");
+//    }
 
 //    public String getName() {
 //        return name;
