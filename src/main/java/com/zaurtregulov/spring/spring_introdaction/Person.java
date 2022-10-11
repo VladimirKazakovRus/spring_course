@@ -10,10 +10,10 @@ public class Person {
 //    @Autowired
 //    @Qualifier("catBean")
     private Pet pet;
-//    @Value("${person.surname}")
+    @Value("${person.surname}")
     private String surName;
 
-//    @Value("${person.age}")
+    @Value("${person.age}")
     private int age;
     //@Autowired
     public Person(/*@Qualifier("catBean")*/ Pet pet) {

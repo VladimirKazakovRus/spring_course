@@ -8,7 +8,9 @@ public class Test6 {
                 new AnnotationConfigApplicationContext(MyConfig.class);
 
         Person person = context.getBean("personBean", Person.class);
-        person.CollYourPet();
+        System.out.println(person.getSurName()+" "+person.getAge());
+
+//        person.CollYourPet();
 
 //        Pet cat = context.getBean("catBean", Cat.class);
 //        Pet cat2 = context.getBean("catBean", Cat.class);

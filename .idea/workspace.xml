@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="@Configuration&#10;@ComponentScan(&quot;com.zaurtregulov.spring.spring_introdaction&quot;)&#10;public class MyConfig {&#10;}">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/MyConfig.java" afterDir="false" />
+    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="@Bean">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test6.java" afterDir="false" />
     </list>
@@ -148,7 +144,7 @@
       <updated>1665194312020</updated>
       <workItem from="1665194314547" duration="11347000" />
       <workItem from="1665249770037" duration="13801000" />
-      <workItem from="1665456421250" duration="1343000" />
+      <workItem from="1665456421250" duration="1569000" />
     </task>
     <task id="LOCAL-00001" summary="first bine">
       <created>1665241285445</created>
@@ -325,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665457001079</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="@Bean">
+      <created>1665457781604</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1665457781604</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,7 +346,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first bine" />
     <MESSAGE value="test3" />
     <MESSAGE value="-ok" />
     <MESSAGE value="dependencies injection for constructer" />
@@ -368,6 +370,7 @@
     <MESSAGE value="@Scope(&quot;prototype&quot;)" />
     <MESSAGE value="    @PostConstruct&#10;    @PreDestroy" />
     <MESSAGE value="@Configuration&#10;@ComponentScan(&quot;com.zaurtregulov.spring.spring_introdaction&quot;)&#10;public class MyConfig {&#10;}" />
-    <option name="LAST_COMMIT_MESSAGE" value="@Configuration&#10;@ComponentScan(&quot;com.zaurtregulov.spring.spring_introdaction&quot;)&#10;public class MyConfig {&#10;}" />
+    <MESSAGE value="@Bean" />
+    <option name="LAST_COMMIT_MESSAGE" value="@Bean" />
   </component>
 </project>
