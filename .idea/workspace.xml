@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="    @PostConstruct&#10;    @PreDestroy">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/MyConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test6.java" afterDir="false" />
+    <list default="true" id="5934fd61-a00b-4906-a4ac-c972f1b1ed98" name="Changes" comment="@Configuration&#10;@ComponentScan(&quot;com.zaurtregulov.spring.spring_introdaction&quot;)&#10;public class MyConfig {&#10;}">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introdaction/Test6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +148,7 @@
       <updated>1665194312020</updated>
       <workItem from="1665194314547" duration="11347000" />
       <workItem from="1665249770037" duration="13801000" />
-      <workItem from="1665456421250" duration="306000" />
+      <workItem from="1665456421250" duration="1343000" />
     </task>
     <task id="LOCAL-00001" summary="first bine">
       <created>1665241285445</created>
@@ -315,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665316346495</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="@Configuration&#10;@ComponentScan(&quot;com.zaurtregulov.spring.spring_introdaction&quot;)&#10;public class MyConfig {&#10;}">
+      <created>1665457001079</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1665457001079</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,6 +367,7 @@
     <MESSAGE value="@Scope(&quot;singleton&quot;)" />
     <MESSAGE value="@Scope(&quot;prototype&quot;)" />
     <MESSAGE value="    @PostConstruct&#10;    @PreDestroy" />
-    <option name="LAST_COMMIT_MESSAGE" value="    @PostConstruct&#10;    @PreDestroy" />
+    <MESSAGE value="@Configuration&#10;@ComponentScan(&quot;com.zaurtregulov.spring.spring_introdaction&quot;)&#10;public class MyConfig {&#10;}" />
+    <option name="LAST_COMMIT_MESSAGE" value="@Configuration&#10;@ComponentScan(&quot;com.zaurtregulov.spring.spring_introdaction&quot;)&#10;public class MyConfig {&#10;}" />
   </component>
 </project>
